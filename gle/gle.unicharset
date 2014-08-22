@@ -1,127 +1,128 @@
+v1
 126
-NULL 0 NULL
-a 3 NULL
-á 3 NULL
-b 3 NULL
-c 3 NULL
-d 3 NULL
-e 3 NULL
-é 3 NULL
-f 3 NULL
-H 5 NULL
-I 5 NULL
-Í 5 NULL
-J 5 NULL
-K 5 NULL
-L 5 NULL
-M 5 NULL
-N 5 NULL
-u 3 NULL
-ú 3 NULL
-v 3 NULL
-w 3 NULL
-x 3 NULL
-y 3 NULL
-z 3 NULL
-A 5 NULL
-O 5 NULL
-Ó 5 NULL
-P 5 NULL
-Q 5 NULL
-R 5 NULL
-S 5 NULL
-T 5 NULL
-U 5 NULL
-3 8 NULL
-4 8 NULL
-5 8 NULL
-6 8 NULL
-7 8 NULL
-8 8 NULL
-9 8 NULL
-0 8 NULL
-g 3 NULL
-h 3 NULL
-i 3 NULL
-í 3 NULL
-j 3 NULL
-k 3 NULL
-l 3 NULL
-m 3 NULL
-Á 5 NULL
-B 5 NULL
-C 5 NULL
-D 5 NULL
-E 5 NULL
-É 5 NULL
-F 5 NULL
-G 5 NULL
-Ṡ 5 NULL
-Ṫ 5 NULL
-⁊ 0 NULL
-! 0 NULL
-" 0 NULL
-£ 0 NULL
-$ 0 NULL
-% 0 NULL
-ṫ 3 NULL
-Ḃ 5 NULL
-Ċ 5 NULL
-Ḋ 5 NULL
-Ḟ 5 NULL
-Ġ 5 NULL
-Ṁ 5 NULL
-Ṗ 5 NULL
-| 0 NULL
-/ 0 NULL
-? 0 NULL
-< 0 NULL
-> 0 NULL
-. 0 NULL
-, 0 NULL
-+ 0 NULL
-Ú 5 NULL
-V 5 NULL
-W 5 NULL
-X 5 NULL
-Y 5 NULL
-Z 5 NULL
-1 8 NULL
-2 8 NULL
-^ 0 NULL
-& 0 NULL
-* 0 NULL
-( 0 NULL
-) 0 NULL
-; 0 NULL
-: 0 NULL
-@ 0 NULL
-' 0 NULL
-~ 0 NULL
-# 0 NULL
-{ 0 NULL
-} 0 NULL
-[ 0 NULL
-] 0 NULL
-\ 0 NULL
-ḃ 3 NULL
-ċ 3 NULL
-ḋ 3 NULL
-ḟ 3 NULL
-ġ 3 NULL
-ṁ 3 NULL
-ṗ 3 NULL
-ṡ 3 NULL
-= 0 NULL
-§ 0 NULL
-® 0 NULL
-© 0 NULL
-¥ 0 NULL
-n 3 NULL
-o 3 NULL
-ó 3 NULL
-p 3 NULL
-q 3 NULL
-r 3 NULL
-s 3 NULL
-t 3 NULL
+NULL 0 Common NULL
+a 3 Latin NULL
+á 3 Latin NULL
+b 3 Latin NULL
+c 3 Latin NULL
+d 3 Latin NULL
+e 3 Latin NULL
+é 3 Latin NULL
+f 3 Latin NULL
+H 5 Latin NULL
+I 5 Latin NULL
+Í 5 Latin NULL
+J 5 Latin NULL
+K 5 Latin NULL
+L 5 Latin NULL
+M 5 Latin NULL
+N 5 Latin NULL
+u 3 Latin NULL
+ú 3 Latin NULL
+v 3 Latin NULL
+w 3 Latin NULL
+x 3 Latin NULL
+y 3 Latin NULL
+z 3 Latin NULL
+A 5 Latin NULL
+O 5 Latin NULL
+Ó 5 Latin NULL
+P 5 Latin NULL
+Q 5 Latin NULL
+R 5 Latin NULL
+S 5 Latin NULL
+T 5 Latin NULL
+U 5 Latin NULL
+3 8 Common NULL
+4 8 Common NULL
+5 8 Common NULL
+6 8 Common NULL
+7 8 Common NULL
+8 8 Common NULL
+9 8 Common NULL
+0 8 Common NULL
+g 3 Latin NULL
+h 3 Latin NULL
+i 3 Latin NULL
+í 3 Latin NULL
+j 3 Latin NULL
+k 3 Latin NULL
+l 3 Latin NULL
+m 3 Latin NULL
+Á 5 Latin NULL
+B 5 Latin NULL
+C 5 Latin NULL
+D 5 Latin NULL
+E 5 Latin NULL
+É 5 Latin NULL
+F 5 Latin NULL
+G 5 Latin NULL
+Ṡ 5 Latin NULL
+Ṫ 5 Latin NULL
+⁊ 0 Common NULL
+! 0 Common NULL
+" 0 Common NULL
+£ 0 Common NULL
+$ 0 Common NULL
+% 0 Common NULL
+ṫ 3 Latin NULL
+Ḃ 5 Latin NULL
+Ċ 5 Latin NULL
+Ḋ 5 Latin NULL
+Ḟ 5 Latin NULL
+Ġ 5 Latin NULL
+Ṁ 5 Latin NULL
+Ṗ 5 Latin NULL
+| 0 Common NULL
+/ 0 Common NULL
+? 0 Common NULL
+< 0 Common NULL
+> 0 Common NULL
+. 0 Common NULL
+, 0 Common NULL
++ 0 Common NULL
+Ú 5 Latin NULL
+V 5 Latin NULL
+W 5 Latin NULL
+X 5 Latin NULL
+Y 5 Latin NULL
+Z 5 Latin NULL
+1 8 Common NULL
+2 8 Common NULL
+^ 0 Common NULL
+& 0 Common NULL
+* 0 Common NULL
+( 0 Common NULL
+) 0 Common NULL
+; 0 Common NULL
+: 0 Common NULL
+@ 0 Common NULL
+' 0 Common NULL
+~ 0 Common NULL
+# 0 Common NULL
+{ 0 Common NULL
+} 0 Common NULL
+[ 0 Common NULL
+] 0 Common NULL
+\ 0 Common NULL
+ḃ 3 Latin NULL
+ċ 3 Latin NULL
+ḋ 3 Latin NULL
+ḟ 3 Latin NULL
+ġ 3 Latin NULL
+ṁ 3 Latin NULL
+ṗ 3 Latin NULL
+ṡ 3 Latin NULL
+= 0 Common NULL
+§ 0 Common NULL
+® 0 Common NULL
+© 0 Common NULL
+¥ 0 Common NULL
+n 3 Latin NULL
+o 3 Latin NULL
+ó 3 Latin NULL
+p 3 Latin NULL
+q 3 Latin NULL
+r 3 Latin NULL
+s 3 Latin NULL
+t 3 Latin NULL
