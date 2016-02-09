@@ -2903,6 +2903,7 @@ IowanOldSt_SmCap_BT_Bold 0 1 0 0 0
 IowanOldSt_Titling_BT 0 0 0 0 0
 IPAGothic 0 0 1 0 0
 IPAMincho 0 0 1 1 0
+IPAmjMincho 0 0 1 1 0
 IPAPGothic 0 0 0 0 0
 IPAPMincho 0 0 0 1 0
 IPAUIGothic 0 0 0 0 0
@@ -5553,6 +5554,8 @@ TakaoGothic 0 0 0 0 0
 TakaoMincho 0 0 0 1 0
 TakaoPGothic 0 0 0 0 0
 TakaoPMincho 0 0 0 1 0
+TakaoPGothic_Italic 1 0 0 0 0
+TakaoPMincho_Italic 1 0 0 1 0
 Talking_Drum_ITC_Std 0 0 0 0 0
 TAMu_Kadambri 0 0 0 0 0
 TAMu_Kalyani 0 0 0 0 0
