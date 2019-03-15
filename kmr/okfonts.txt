@@ -1,0 +1,191 @@
+Ahmed LT
+Ahmed LT Regular
+Amer LT Regular
+Amiri Bold Italic
+Amiri Bold
+Amiri Regular
+Amiri Italic
+Andale Sans Arabic Farsi Regular
+Arian LT Bold
+Arian LT Semi-Bold
+Arian LT Heavy
+Arian LT Light
+Arian LT Regular
+ASVCodar LT Bold
+ASVCodar LT Light
+Badiya LT Bold
+Badiya LT Regular
+Badr LT Bold
+Badr LT
+DejaVu Sans Bold
+DejaVu Sans Bold Semi-Condensed
+DejaVu Sans Semi-Condensed
+DejaVu Sans Mono Bold
+DejaVu Sans Mono
+DejaVu Sans
+DIN Next LT Arabic Black
+DIN Next LT Arabic Bold
+DIN Next LT Arabic Ultra-Bold
+DIN Next LT Arabic Light
+DIN Next LT Arabic Medium
+DIN Next LT Arabic Regular
+DIN Next LT Arabic Ultra-Light
+Firas Regular
+FreeMono Regular
+FreeSerif Bold
+FreeSerif Regular
+Frutiger LT Arabic Light
+Frutiger LT Arabic Light Condensed
+Frutiger LT Arabic
+Frutiger LT Arabic Condensed
+Frutiger LT Arabic Bold
+Frutiger LT Arabic Bold Condensed
+Frutiger LT Arabic Ultra-Bold
+Frutiger LT Arabic Heavy Condensed
+Hassan LT Bold
+Hassan LT Light
+Helvetica Neue LT Arabic Bold
+Helvetica Neue LT Arabic Light
+Helvetica Neue LT Arabic
+Hisham LT Regular
+Insan Bold
+Insan Regular
+Insan Ultra-Light
+Isra Regular
+Isra Light
+Jalal LT Bold
+Jalal LT Light
+Janna LT Bold
+Janna LT Regular
+Karim LT Regular
+Koufiya LT Bold
+Koufiya LT Regular
+Lateef Regular
+Maged LT Bold
+Maged LT Regular
+Midan Black
+Midan Bold
+Midan Regular
+Mitra LT Bold
+Mitra LT Light
+MofidMahdi LT Regular
+Nazanin LT Bold
+Nazanin LT Light
+Neo Sans Arabic Black
+Neo Sans Arabic Bold
+Neo Sans Arabic Light
+Neo Sans Arabic Medium
+Neo Sans Arabic Regular
+Neo Sans Arabic Heavy
+Palatino LT Arabic Regular
+Palatino Sans Arabic Bold
+Palatino Sans Arabic Regular
+Scheherazade Regular
+Sultan Free Regular
+Sultan Nahia Regular
+Tahoma Regular
+Tanseek Modern Pro Arabic Bold
+Tanseek Modern Pro Arabic Ultra-Bold
+Tanseek Modern Pro Arabic Light
+Tanseek Modern Pro Arabic
+Tanseek Pro Arabic Bold
+Tanseek Pro Arabic Ultra-Bold
+Tanseek Pro Arabic Light
+Tanseek Pro Arabic Regular
+Times New Roman, Bold
+Times New Roman,
+Univers Next Arabic Semi-Bold
+Univers Next Arabic Light
+Univers Next Arabic Regular
+XB Kayhan Bold Italic
+XB Kayhan Bold
+XB Kayhan Italic
+XB Kayhan Regular
+XB Khoramshahr Bold Italic
+XB Khoramshahr Bold
+XB Khoramshahr Italic
+XB Khoramshahr Regular
+XB Niloofar Bold Italic
+XB Niloofar Bold
+XB Niloofar Italic
+XB Niloofar Regular
+XB Riyaz Bold Italic
+XB Riyaz Bold
+XB Riyaz Italic
+XB Riyaz Regular
+XB Roya Bold Italic
+XB Roya Bold
+XB Roya Italic
+XB Roya Regular
+XB Shafigh Bold Italic
+XB Shafigh Bold
+XB Shafigh Italic
+XB Shafigh Kurd Bold Italic
+XB Shafigh Kurd Bold
+XB Shafigh Kurd Italic
+XB Shafigh Kurd Regular
+XB Shafigh Regular
+XB Shafigh Uzbek Bold Italic
+XB Shafigh Uzbek Bold
+XB Shafigh Uzbek Italic
+XB Shafigh Uzbek Regular
+XB Shiraz Bold Italic
+XB Shiraz Bold
+XB Shiraz Italic
+XB Shiraz Regular
+XB Sols Bold Italic
+XB Sols Bold
+XB Sols Italic
+XB Sols Regular
+XB Tabriz Bold Italic
+XB Tabriz Bold
+XB Tabriz Italic
+XB Tabriz Regular
+XB Titre Italic
+XB Titre Shadow Italic
+XB Titre Shadow Regular
+XB Titre Regular
+XB Yagut Bold Italic
+XB Yagut Bold
+XB Yagut Italic
+XB Yagut Regular
+XB Yas Bold Italic
+XB Yas Bold
+XB Yas Italic
+XB Yas Regular
+XB Zar Bold Italic
+XB Zar Bold
+XB Zar Italic
+XB Zar Oblique Bold
+XB Zar Oblique
+XB Zar Regular
+XM Traffic Bold Italic
+XM Traffic Bold
+XM Traffic Italic
+XM Traffic Regular
+XM Vahid Bold Italic
+XM Vahid Bold
+XM Vahid Italic
+XM Vahid Regular
+XM Yekan Bold Italic
+XM Yekan Bold
+XM Yekan Italic
+XM Yekan Regular
+XM Yermook Bold Italic
+XM Yermook Bold
+XM Yermook Italic
+XM Yermook Regular
+XP Paatch Italic
+XP Paatch
+XP Paatch Ultra-Light Italic
+XP Paatch Ultra-Light
+XP Vosta Bold Italic
+XP Vosta Bold
+XP Vosta Italic
+XP Vosta Regular
+XP Ziba Bold Italic
+XP Ziba Bold
+XP Ziba Italic
+XP Ziba Regular
+Yakout Linotype Bold
+Yakout Linotype
