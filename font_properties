@@ -1540,6 +1540,9 @@ Cumberland_Std_Bold 0 1 0 1 0
 Cumberland_Std_Bold_Italic 1 1 0 1 0
 Cumberland_Std_Medium 0 0 0 1 0
 Cumberland_Std_Medium_Italic 1 0 0 1 0
+CuneiformComposite 0 0 0 0 0
+CuneiformNAOutline_Medium 0 0 0 0 0
+CuneiformOB 0 0 0 0 0
 Cuppa_Joe_ITC_Std 0 0 0 0 0
 Curlz_MT_Std_Medium 0 0 0 0 0
 CurrencyPi_BT 0 0 1 0 0
@@ -5241,6 +5244,7 @@ Seebad_LT_Std 0 0 0 0 0
 Seebad_LT_Std_Bold 0 1 0 0 0
 Seebad_LT_Std_Bold_Italic 1 1 0 0 0
 Seebad_LT_Std_Italic 1 0 0 0 0
+Segoe_UI_Historic 0 0 0 0 0
 Semaphore_BT 0 0 0 0 0
 Serengetti_ITC_Std 0 0 0 0 0
 Serifa_BdCn_BT_Condensed 0 0 0 1 0
