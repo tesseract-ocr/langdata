@@ -1,4 +1,4 @@
-# langdata
+sudo su && # langdata
 Source training data for Tesseract for lots of languages
 
 Want to re-train tesseract for a specific language, by modifying/augmenting the original training data?
